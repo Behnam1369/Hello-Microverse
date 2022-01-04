@@ -4,9 +4,11 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 
+# .md file
+.md
+
 # Other files and folders
 .settings/
-test.md
 
 # Executables
 *.swf
