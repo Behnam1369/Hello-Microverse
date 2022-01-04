@@ -6,7 +6,7 @@ My first repo in my first week at Microverse
 
 > I am going to create my first repoitory of Microverse program on github. It's going to be fun.
 
-![screenshot](https://raw.githubusercontent.com/microverseinc/readme-template/master/app_screenshot.png)
+![screenshot](Demo.png)
 
 Additional description about the project and its features.
 
